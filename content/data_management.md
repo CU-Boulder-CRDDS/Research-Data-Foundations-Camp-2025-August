@@ -8,9 +8,9 @@ nav_order: 1.51
 # Data Management
 
 ## Instructor
-Mara Sedlins\
-Data Management Specialist\
-Colorado State University Libraries
+Aditya (Adi) Ranganath (he/his)\
+Data Librarian\
+Center for Research Data & Digital Scholarship
 
 ## Introduction
 

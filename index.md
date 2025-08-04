@@ -3,65 +3,47 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# January 2025 Research Data Foundations Camp
+# August 2025 Research Data Foundations Camp
 Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) and [Colorado State University Libraries](https://lib.colostate.edu/services/data-management/).
 
 ## Schedule
 
 _Slides and other workshop content not yet finalized._
 
-### Tuesday, January 7th
+### Tuesday, August 12th
 
 | Time | Content|Presenter(s)|
 | --- | ---|----|
-| 10:00-10:25 | [Welcome and Introduction](content/introduction.html)|Matthew Murray|
-| 10:30-11:15| [Data Discovery](content/data-discovery.html)| Liz Novosel|
-| 11:15-12:00| Introduction to [Final Project](content/wrap-up/microcredential.html)|
-| 12:00-1:00| Break|
-| 1:00-3:00| [GitHub](content/git_github.html)| Phil White|
-| 3:00-3:15| Break|
-| 3:15-4:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
-
-### Wednesday, January 8th
-
-| Time | Content|Presenter(s)|
-| --- | ---|----|
-| 10:00-11:15| [Data Management](content/data_management.html)|Mara Sedlins|
+| 10:00-10:25 | [Welcome and Introduction](content/introduction.html)|Aditya Ranganath & Matthew Murray|
+| 10:30-11:15| [Data Discovery and Licensing](content/data-discovery.html)| Liz Novosel & Chris Pusateri|
 | 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
-| 12:00-1:30 | Break|
-| 1:30-2:30| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
-| 2:30-3:30| Working Session #1|
-| 3:30-4:00| Python Installation Clinic| 
+| 12:00-1:00| Lunch|
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White| or [R Foundations](content/data-analysis-in-R.html)| Ellery Galvin|
 
-### Thursday, January 9th
+### Wednesday, August 13th
+
+| Time | Content|Presenter(s)|
+| --- | ---|----|
+| 10:00-11:00| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell & Andrew Johnson|
+| 11:00-12:00| [Data Management](content/data_management.html)|Aditya Ranganath|
+| 12:00-1:00 | Lunch|
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White| or [R Foundations](content/data-analysis-in-R.html)| Ellery Galvin|
+
+### Thursday, August 14th
 
 | Time | Content|Presenters(s)|
 | --- | ---|----|
-| 9:30 - 10:00| R Installation Clinic |
-| 10:00-12:00 | [Data Analysis in R, Fundamentals](content/data-analysis-in-R.html)|Ellery Galvin |
-| 12:00-1:00| Break |
-| 1:00-2:00 | [Data Analysis in R, Modeling and Statistics](content/data-analysis-in-R.html)|Ellery Galvin|
-| 2:00-2:15 | Break 
-| 2:15-3:15| [Data Analysis in R, Text mining](content/data-analysis-in-R.html)|Ellery Galvin|
-| 3:15-3:30| Optional Break | |
-| 3:15-4:30| Working Session #2|
+| 10:00-12:00 | [GitHub](content/git_github.html)| Mohal Khandelwal & Matthew Murray
+| 12:00-1:00| Lunch |
+| 1:00-2:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
+| 2:00-4:00| [Final Project for microcredential](content/wrap-up/microcredential.html)|
 
-### Friday, January 10th
-
-| Time | Content|Presenters(s)
-| --- | ---|----|
-| 10:00-12:00| [Python Fundamentals/Data Analysis in Python, Session #1](content/data-analysis-in-python/python102.html)| Kevin Worthington|
-| 12:00-1:00| Break|
-| 1:00-3:00| [Python Fundamentals/Data Visualization in Python, Session #2](content/data-analysis-in-python/python201.html)| Kevin Worthington|
-| 3:00-3:15| Break|
-| 3:15-4:30| Working Session #3|
-
-### Tuesday, January 14th (Optional)
+### Tuesday, August 19th (Optional)
 
 | --- | ---|----|
 | 12:00-1:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/calendar/events/CHTuesdays10) (in-person or virtual)
 
-### Thursday, January 16th (Optional)
+### Thursday, August 21st (Optional)
 
 | --- | ---|----|
 | 1:00-2:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/event/13797344) (virtual)
@@ -83,18 +65,28 @@ University of Colorado Boulder Libraries
 
 Nickoal Eichmann-Kalwara (she/hers)\
 Digital Scholarship Librarian\
-Center for Research Data and Digital Scholarship\
+Center for Research Data & Digital Scholarship\
 University of Colorado Boulder Libraries
 
 Ellery Galvin (she/hers)\
 PhD Student, Applied Mathematics\
-Statistics Consultant, Center for Research Data and Digital Scholarship\
+Statistics Consultant, Center for Research Data & Digital Scholarship\
 University of Colorado Boulder Libraries
 [elga3498@colorado.edu](mailto:elga3498@colorado.edu)
 
+Andrew Johnson\
+Center Director for Research Data Management and Repositories\
+Center for Research Data & Digital Scholarship\
+University Libraries\
+[Andrew.M.Johnson@colorado.edu](mailto:Andrew.M.Johnson@colorado.edu)
+
+Mohal Khandelwal\
+Cloud Analyst, Research Computing\
+Center for Research Data & Digital Scholarship\
+
 Matthew Murray (he/they)\
 Data Librarian\
-Center for Research Data and Digital Scholarship\
+Center for Research Data & Digital Scholarship\
 University of Colorado Boulder Libraries
 [matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
@@ -108,20 +100,17 @@ Event and Outreach Coordinator\
 Center for Research Data and Digital Scholarship\
 University of Colorado Boulder Libraries
 
-Aditya (Adi) Ranganath (he/his)  
-Data Librarian  
-Center for Research Data and Digital Scholarship  
-University of Colorado Boulder Libraries  
-[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
+Chris Pusateri\
+E-Resources Acquisitions & Licensing Librarian\
+University of Colorado Boulder Libraries
 
-Mara Sedlins (she/hers)\
-Data Management Specialist\
-Colorado State University Libraries
+Aditya (Adi) Ranganath (he/his)\
+Data Librarian\
+Center for Research Data & Digital Scholarship\
+University of Colorado Boulder Libraries\
+[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
 
 Phil White\
 Earth, Environment and Geospatial Librarian\
 University of Colorado Boulder Libraries
 
-Kevin Worthington\
-Maps and GIS Data Specialist\
-Colorado State University Libraries

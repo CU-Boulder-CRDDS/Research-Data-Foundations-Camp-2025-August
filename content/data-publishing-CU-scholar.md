@@ -11,7 +11,12 @@ nav_order: 1.5021
 
 Melissa Cantrell\
 Scholarly Communication Librarian\
-Center for Research Data and Digital Scholarship
+Center for Research Data & Digital Scholarship
+
+Andrew Johnson\
+Center Director for Research Data Management and Repositories\
+Center for Research Data & Digital Scholarship\
+
 
 ## Session Synopsis
 
