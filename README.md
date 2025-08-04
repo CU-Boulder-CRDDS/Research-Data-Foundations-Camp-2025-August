@@ -6,4 +6,4 @@ The template used to create the Camp website was created by [Evan Thornberry](ht
 
 Text and image content on this site is released under a CC-BY-4.0 license.
 
-Code and script on this site is released under a CC0 Public Domain Dedication.
+Code and scripts on this site is released under a CC0 Public Domain Dedication.
