@@ -19,7 +19,6 @@ _Slides and other workshop content not yet finalized._
 | 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
 | 12:00-1:00| Lunch|
 | 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
-or
 | 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Ellery Galvin| 
 
 ### Wednesday, August 13th
