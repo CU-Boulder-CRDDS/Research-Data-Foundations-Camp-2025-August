@@ -116,3 +116,5 @@ Phil White\
 Earth, Environment and Geospatial Librarian\
 University of Colorado Boulder Libraries
 
+Text and image content on this site is released under a [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+Code and script on this site is released under a [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
