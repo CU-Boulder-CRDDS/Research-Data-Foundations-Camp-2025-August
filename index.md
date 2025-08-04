@@ -28,7 +28,8 @@ _Slides and other workshop content not yet finalized._
 | 10:00-11:00| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell & Andrew Johnson|
 | 11:00-12:00| [Data Management](content/data_management.html)|Aditya Ranganath|
 | 12:00-1:00 | Lunch|
-| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White| or [R Foundations](content/data-analysis-in-R.html)| Ellery Galvin|
+| 1:00-4:00| [Python Foundations](content/data-analysis-in-python.html)|Phil White|
+| 1:00-4:00| [R Foundations](content/data-analysis-in-R.html)|Ellery Galvin| 
 
 ### Thursday, August 14th
 
