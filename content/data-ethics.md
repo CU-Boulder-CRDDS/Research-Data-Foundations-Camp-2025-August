@@ -2,7 +2,7 @@
 layout: default
 title: Data Ethics
 has_children: false
-nav_order: 1.501
+nav_order: 1.508
 ---
 
 # Data Ethics 

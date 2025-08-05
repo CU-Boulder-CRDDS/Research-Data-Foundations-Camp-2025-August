@@ -2,7 +2,7 @@
 layout: default
 title: GitHub and GitHub Pages
 has_children: true
-nav_order: 1.522
+nav_order: 1.507
 ---
 
 # GitHub and GitHub Pages

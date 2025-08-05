@@ -2,7 +2,7 @@
 layout: default
 title: Data Analysis in R
 has_children: false
-nav_order: 1.523
+nav_order: 1.504
 ---
 
 # Data Analysis in R

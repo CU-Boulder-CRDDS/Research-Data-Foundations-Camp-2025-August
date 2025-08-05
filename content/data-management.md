@@ -2,7 +2,7 @@
 layout: default
 title: Data Management
 has_children: false
-nav_order: 1.51
+nav_order: 1.506
 ---
 
 # Data Management
@@ -26,5 +26,3 @@ If you'd like to access the presentation slide-deck in a separate window, please
 ## Additional Resource
 
 [Guide to DMPTool for CU Boulder Researchers](https://cu-boulder-crdds.github.io/dmptool_guide/)
-
-[CSU Libraries' Data Management website](https://lib.colostate.edu/services/data-management/)
