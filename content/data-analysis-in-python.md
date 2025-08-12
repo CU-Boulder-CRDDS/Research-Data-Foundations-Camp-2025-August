@@ -9,6 +9,8 @@ nav_order: 1.503
 
 Welcome to this foundation workshop on working with data in Python! During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
+This page: [bit.ly/dcF25py](https://bit.ly/dcF25py)
+
 ____
 ### Presenter
 Phil White <a href='https://github.com/whitephil' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
