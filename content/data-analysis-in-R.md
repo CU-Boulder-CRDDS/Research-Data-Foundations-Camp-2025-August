@@ -32,8 +32,4 @@ Before beginning the lesson, please download the materials linked below and put 
 
 Before the session, open RStudio, use the files pane in the lower right square to navigate to the location where you saved the materials.  Inside the folder, there is a file called "setup.R".  Open this file.  In the upper right of the pane showing the contents of the file (it has the line install.packages) there is button called "source".  Click this button once.  This action will cause R to execute the code in the file, installing all the packages you will need.
 
-[Download Session Materials](https://osf.io/qmren/files/osfstorage/677d526fd561c8e39dd10ae4){: .btn .btn-blue }. 
-
-
-## Solutions
-After the session, additional solutions will be posted here.
+[Download Session Materials]([https://osf.io/qmren/files/osfstorage/677d526fd561c8e39dd10ae4){: .btn .btn-blue }. 
