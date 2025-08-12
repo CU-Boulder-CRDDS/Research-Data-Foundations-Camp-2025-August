@@ -13,14 +13,14 @@ The goal of the Research Data Foundations Camp Microcredential is to provide lea
 
 To earn the microcredential certifying literacy in these areas, learners must complete the following:
 
-* Attend **all four days** of the Research Data Foundations Camp
+* Attend **all three days** of the Research Data Foundations Camp
 * Complete a final project (described below) that demonstrates specific knowledge and skills taught at the Research Data Foundations Camp
 
 For more on what microcredentials are, and why you should consider earning one, please see this resource from CU Boulder's [Office of the Registrar](https://www.colorado.edu/registrar/faculty-staff/programs/micro-credentials). 
 
 ## Final Project
 
-**The final project will be due by January 19th, 2025; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
+**The final project will be due by September 1st, 2025; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
 
 Final projects will consist of a portfolio of work hosted on a GitHub repository (you are also encouraged to publish your portfolio materials via GitHub pages; see below). Completed microcredential project portfolios must include the following elements:
 
@@ -31,13 +31,11 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 * Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.
 * Please remember to cite the data set you use in your analysis, as well as other relevant contextual information in the repository's Readme.  
 
-3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to one of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
+3. **Data set Evaluation**: A brief (250-500 words) evaluation of a data set with respect to one of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
 ## Working sessions
 
-There will be dedicated working sessions distributed across the four days of our Research Data Camp for you to make progress towards earning the Microcredential; our hope is that by using this time productively, you will be able to finish (or be close to finishing) the Microcredential requirements by the time the Camp concludes on Friday. Camp instructors will be available during these working sessions to assist you on Microcredential-related tasks. 
-
-In the first working session (on Wednesday) you will work on identifying a dataset of interest, completing the dataset evaluation, and pushing the evaluation to a dedicated GitHub Repository that will host your Microcredential project materials. Note that looking for a dataset can sometimes be a time consuming task, so you may want to get started on this on Tuesday (using what you’ve learned from the “Data Discovery” session).
+There will be a dedicated working session on the third day our Research Data Camp for you to make progress towards earning the Microcredential; our hope is that by using this time productively, you will be able to get a good start towards completing the Microcredential requirements. Camp instructors will be available during these working sessions to assist you on Microcredential-related tasks. 
 
 ## Making Your Microcredential GitHub Repository
 
@@ -70,7 +68,7 @@ To give you a sense of the nature and scope of a possible project, consider the 
 
 ## Help
 
-If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, January 14th](https://colorado.libcal.com/calendar/events/CHTuesdays10) from 12:00-1:00pm (in-person or virtual) or [Thursday, January 16th](https://colorado.libcal.com/calendar/events/CHThursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
+If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, August 26th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-tuesdays) from 12:00-1:00pm (in-person or virtual) or [Thursday, August 28th](https://calendar.colorado.edu/event/interdisciplinary-data-consulting-hours-thursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
 
 ## Turn in Your Final Portfolio Project!
 Use this [Google Survey link](https://docs.google.com/forms/d/e/1FAIpQLScg1zEMAX7CqgimJc53fyBroUagLvjjLPkNMfdR5-8nx0OhcA/viewform?usp=share_link) to turn in your project. In addition to filling out the form, please also email us with a link to the GitHub page or repository that hosts your project materials. 
