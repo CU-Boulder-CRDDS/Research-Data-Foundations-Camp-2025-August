@@ -18,9 +18,9 @@ This presentation introduces basic concepts, tools, and resources that will help
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](data_management/MSedlins_RDM_2025-01-08.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](data_management/rdm-datacamp2025-ranganath.pdf).
 
-<iframe src="data_management/MSedlins_RDM_2025-01-08.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="data_management/rdm-datacamp2025-ranganath.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 
 ## Additional Resource
