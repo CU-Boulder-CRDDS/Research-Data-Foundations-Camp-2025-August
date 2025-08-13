@@ -7,17 +7,17 @@ nav_order: 1.507
 
 # GitHub and GitHub Pages
 
-Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
+Welcome to this Introductory workshop on Git and GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
 ____
 ### Presenter
 Mohal Khandelwal\
 Cloud Analyst, Research Computing\
-Center for Research Data & Digital Scholarship\
+Center for Research Data & Digital Scholarship
 
 Matthew Murray (he/they)\
 Data Librarian\
-Center for Research Data & Digital Scholarship\
+Center for Research Data & Digital Scholarship
 
 - Please create a [GitHub account](https://github.com/) right now if you have yet to do so.  
 - Download and install [Git](https://git-scm.com/).  

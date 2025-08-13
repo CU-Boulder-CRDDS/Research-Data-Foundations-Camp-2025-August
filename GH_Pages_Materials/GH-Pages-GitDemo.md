@@ -32,6 +32,13 @@ Step 2
 
 Congrats! You've initialized a repository!  
 
+
+### Choose a license
+
+![screenshot of license choosing on GitHub](../content/img/GH-License-01.png)
+
+
+
 ### Edit README.md file  
 
 Step 1
