@@ -35,8 +35,45 @@ Congrats! You've initialized a repository!
 
 ### Choose a license
 
+You should give your repo a license so that others know how they can use your code.
+
+#### Choose a license when creating your repo
+
+1. Click on "No license." 
 ![screenshot of license choosing on GitHub](../content/img/GH-License-01.png)
 
+2. Choose a license from the options.
+![screenshot of license choosing on GitHub](../content/img/GH-License-02.png)
+
+#### Give a license to an existing repo
+
+1. Go to an existing repo and click on the "+" and "Create new file."
+![screenshot of GitHub repo with "+" circled](../content/img/GH-License-04.png)
+
+2. Type "license" for the file name and "Choose a license template" will appear.
+![screenshot of GitHub's "create new file" page with "license" in the filename area circled](../content/img/GH-License-05.png)
+
+3. Select a license and click the "Review and submit" button. (Some licenses work slightly differently.)
+![screenshot GitHub giving you options for license options](../content/img/GH-License-06.png)
+
+#### Hey, the license I want isn't listed
+
+1. GitHub is weird about licenses. There are a lot of other _valid_ licenses that you can (for example) use in advanced search.
+![screenshot of GitHub's advanced search with the "license" dropdown open](../content/img/GH-License-07.png)
+
+2. Go to Git Hub's [Choose a License page](https://choosealicense.com/]) and choose one of the options at the bottom of the page.
+![screenshot of "choosealicense.com"](../content/img/GH-License-08.png)
+
+3. Pick a license and then "Copy license text to clipboard" and paste it into your license file or add your repo's URL and hit "enter."
+![screenshot of Creative Commons license on Choose a License with "Copy license text to clipboard" and "enter a GitHub repository URL" circled](../content/img/GH-License-09.png)
+
+4. Your license should show up in the "About" section of your repo.
+![screenshot of README file on GitHub with license information circled](../content/img/GH-License-03.png)
+
+#### You can also add license info to your ReadMe
+
+1. Sometimes you might want to have more than one license on your repo and you can indicate this in your README.
+![screenshot of license choosing on GitHub](../content/img/GH-License-10.png)
 
 
 ### Edit README.md file  
