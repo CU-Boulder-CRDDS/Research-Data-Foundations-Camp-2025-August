@@ -44,6 +44,7 @@ CRDDS regularly offers [Git & GitHub workshops](https://www.colorado.edu/crdds/e
 
 If you'd like to access the presentation slide-deck in a separate window, please click [here](git_github_20250814.pdf).
 
+Example repo: https://github.com/mohalkh5/git-tutorial
 
 <iframe src="git_github_20250814.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
