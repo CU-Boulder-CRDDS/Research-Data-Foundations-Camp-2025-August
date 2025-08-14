@@ -97,6 +97,27 @@ Add a commit message, and click Commit to save the changes:
 Congrats. You've made an edit then committed it.  
 ![Updated page](../content/img/git6.png)
 
+### What to include in your README
+
+1. What your project does 
+
+2. How people can use it
+
+3. Who you are and how to contact you
+
+4. License information
+
+
+### .gitignore files
+
+1. Specifies what items (files, directories, etc.) should never be tracked
+
+2. There are lots of templates that include rules to help Git repositories work with  specific programming languages, frameworks, tools, or environments.
+
+![screenshot of GitHub's "create new file" page with .gitignore menu opened](../content/img/GH-GitIgnore-01.png)
+
+3. [A collection of useful .gitignore templates](https://github.com/github/gitignore).
+
 
 ## GitHub Desktop Client
 
